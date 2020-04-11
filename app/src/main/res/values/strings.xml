@@ -2,13 +2,12 @@
     <string name="app_name">App Empresa</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">H2L SOLUÇÕES PARA DOCUMENTOS</string>
-    <string name="nav_header_subtitle">h2l@h2l.com.br</string>
+    <string name="nav_header_subtitle">yan.ferreira@h2l.com.br</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
     <string name="menu_principal">Principal</string>
-    <string name="menu_servicos">Serviços</string>
+    <string name="menu_solucoes">Soluções</string>
     <string name="menu_clientes">Clientes</string>
     <string name="menu_contato">Contato</string>
     <string name="menu_sobre">Sobre</string>
@@ -17,7 +16,7 @@
 
     <string name="titulo_principal">Outsourcing de Impressão</string>
     <string name="descricao_titulo">Projeto personalizado criado por consultoria especializada
-    de acordo com a necessidade da sua empresa ou organização</string>
+        de acordo com a necessidade da sua empresa ou organização</string>
 
     // Textos fragment_contatos
 
@@ -29,7 +28,23 @@
     <string name="SIAC">SIAC +55 67 3311-2555</string>
     <string name="email_SIAC">siac@h2l.com.br</string>
     <string name="localizacao">Rua Alagoas, 396 – Ed. Atrium | Lojas 01 e 02
-    Jardim dos Estados – Campo Grande/MS</string>
+        Jardim dos Estados – Campo Grande/MS</string>
+
+    // Textos fragment_soluções
+
+    <string name="desc_solucoes">Somos especialistas na implementação de soluções para documentos em empresas
+        de diferentes portes e segmentos. Confira alguns de nossos serviços:</string>
+
+    <string name="titulo_diagnostico_imagem">Impressão de diagnóstico por imagens</string>
+    <string name="desc_diagnostico_imagem">Possuímos equipamentos para impressão de imagens onde
+        a documentação em papel pode substituir o filme.</string>
+
+    <string name="titulo_software_prova">Software de correção de provas</string>
+    <string name="desc_software_prova">Impressão automática de gabaritos
+        e provas, além de análise facilitada de dados.</string>
+
+    <string name="titulo_gestao_documento">Software de gestão eletrônica de documentos</string>
+    <string name="desc_gestao_documento">Solução completa e integrada que gera relatórios completos.</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

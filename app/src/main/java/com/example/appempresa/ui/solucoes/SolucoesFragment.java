@@ -1,4 +1,4 @@
-package com.example.appempresa.ui.servicos;
+package com.example.appempresa.ui.solucoes;
 
 import android.os.Bundle;
 
@@ -13,9 +13,9 @@ import com.example.appempresa.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class ServicosFragment extends Fragment {
+public class SolucoesFragment extends Fragment {
 
-    public ServicosFragment() {
+    public SolucoesFragment() {
         // Required empty public constructor
     }
 
@@ -24,6 +24,6 @@ public class ServicosFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_servicos, container, false);
+        return inflater.inflate(R.layout.fragment_solucoes, container, false);
     }
 }

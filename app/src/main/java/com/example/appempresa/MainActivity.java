@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -39,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         //IDs do menu
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_principal, R.id.nav_servicos, R.id.nav_clientes,
+                R.id.nav_principal, R.id.nav_solucoes, R.id.nav_clientes,
                 R.id.nav_contato, R.id.nav_sobre
         )
                 .setDrawerLayout(drawer)
