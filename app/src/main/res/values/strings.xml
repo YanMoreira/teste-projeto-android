@@ -45,6 +45,19 @@
 
     <string name="titulo_gestao_documento">Software de gestão eletrônica de documentos</string>
     <string name="desc_gestao_documento">Solução completa e integrada que gera relatórios completos.</string>
+    
+    //Textos fragment_sobre
+    <string name="titulo_sobre">Somos uma empresa feita de pessoas e que investe
+        em pessoas. Uma equipe unida no objetivo de levar
+        à sua empresa a melhor solução para a produção e
+        gerenciamento de documentos.</string>
+    
+    <string name="topico_especialista">Somos especialistas na implementação de soluções para
+        documentos</string>
+
+    <string name="topico_solucoes">Oferecemos soluções inteligentes e conectadas</string>
+
+    <string name="topico_economia">Garantimos economia e agilidade em seus processos</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

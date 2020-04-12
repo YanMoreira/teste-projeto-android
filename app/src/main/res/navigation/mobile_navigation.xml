@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_principal"/>
 
     <fragment
-        android:id="@+id/nav_servicos"
-        android:name="com.example.appempresa.ui.servicos.ServicosFragment"
-        android:label="@string/menu_servicos"
-        tools:layout="@layout/fragment_servicos"/>
+        android:id="@+id/nav_solucoes"
+        android:name="com.example.appempresa.ui.solucoes.SolucoesFragment"
+        android:label="@string/menu_solucoes"
+        tools:layout="@layout/fragment_solucoes"/>
 
     <fragment
         android:id="@+id/nav_clientes"
